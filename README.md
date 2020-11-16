@@ -1,3 +1,2 @@
-
 # solveMeFirst 
- Hacker Rank Problem: solveMeFirst
+Hacker Rank Problem: solveMeFirst
